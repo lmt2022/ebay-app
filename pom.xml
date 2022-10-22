@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-app</finalName>
+		<finalName>ebay-app</finalName>
 		
 		<plugins>
 			<plugin>
